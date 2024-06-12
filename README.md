@@ -10,5 +10,5 @@ LargeSquarelotron: Represents a 5x5 square array.
 
 Run SquarelotronTest.java
 javac  SquarelotronTest.java
-java   SquarelotronTest .......
+java   SquarelotronTest 
 
